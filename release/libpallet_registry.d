@@ -1,0 +1,1 @@
+/root/subtensor/target/release/libpallet_registry.rlib: /root/subtensor/pallets/registry/src/benchmarking.rs /root/subtensor/pallets/registry/src/lib.rs /root/subtensor/pallets/registry/src/types.rs /root/subtensor/pallets/registry/src/weights.rs /root/subtensor/support/macros/src/lib.rs /root/subtensor/support/macros/src/visitor.rs

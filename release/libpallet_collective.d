@@ -1,0 +1,1 @@
+/root/subtensor/target/release/libpallet_collective.rlib: /root/subtensor/pallets/collective/src/benchmarking.rs /root/subtensor/pallets/collective/src/lib.rs /root/subtensor/pallets/collective/src/weights.rs /root/subtensor/support/macros/src/lib.rs /root/subtensor/support/macros/src/visitor.rs

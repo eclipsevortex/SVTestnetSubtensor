@@ -1,0 +1,4 @@
+release/build/wasm-opt-sys-7751a787a8bdbcf3/out/libwasm-opt-cc.a filter=lfs diff=lfs merge=lfs -text
+release/deps/libwasm_opt_sys-a364aa1005326cab.rlib filter=lfs diff=lfs merge=lfs -text
+target/release/build/wasm-opt-sys-7751a787a8bdbcf3/out/libwasm-opt-cc.a filter=lfs diff=lfs merge=lfs -text
+target/release/deps/libwasm_opt_sys-a364aa1005326cab.rlib filter=lfs diff=lfs merge=lfs -text

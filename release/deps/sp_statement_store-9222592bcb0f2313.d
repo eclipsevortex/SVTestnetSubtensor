@@ -1,0 +1,10 @@
+/root/subtensor/target/release/deps/libsp_statement_store-9222592bcb0f2313.rmeta: /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/lib.rs /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/ecies.rs /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/runtime_api.rs /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/store_api.rs
+
+/root/subtensor/target/release/deps/libsp_statement_store-9222592bcb0f2313.rlib: /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/lib.rs /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/ecies.rs /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/runtime_api.rs /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/store_api.rs
+
+/root/subtensor/target/release/deps/sp_statement_store-9222592bcb0f2313.d: /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/lib.rs /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/ecies.rs /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/runtime_api.rs /root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/store_api.rs
+
+/root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/lib.rs:
+/root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/ecies.rs:
+/root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/runtime_api.rs:
+/root/.cargo/git/checkouts/polkadot-sdk-cff69157b985ed76/7049c3c/substrate/primitives/statement-store/src/store_api.rs:

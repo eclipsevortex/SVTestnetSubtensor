@@ -1,0 +1,8 @@
+
+CXX include path:
+  /root/subtensor/target/release/build/wasm-opt-sys-7751a787a8bdbcf3/out/cxxbridge/include
+  /root/subtensor/target/release/build/wasm-opt-sys-7751a787a8bdbcf3/out/cxxbridge/crate
+  /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-opt-sys-0.116.0/binaryen/src
+  /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-opt-sys-0.116.0/binaryen/src/tools
+  /root/subtensor/target/release/build/wasm-opt-sys-7751a787a8bdbcf3/out
+  /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-opt-sys-0.116.0/binaryen/third_party/llvm-project/include

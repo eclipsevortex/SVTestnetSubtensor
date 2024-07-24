@@ -1,0 +1,5 @@
+cargo:rustc-env=SUBSTRATE_CLI_COMMIT_HASH=1332d077ea7
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=4.0.0-dev-1332d077ea7
+cargo:rerun-if-changed=/root/subtensor/.git/HEAD
+cargo:rerun-if-changed=/root/subtensor/.git/refs/heads/main
+

@@ -1,0 +1,33 @@
+[dependencies.wasm-project]
+default-features = false
+features = [
+    "runtime-benchmarks",
+    "frame-benchmarking",
+    "frame-try-runtime",
+    "frame-system-benchmarking",
+]
+package = "node-subtensor-runtime"
+path = "/root/subtensor/runtime"
+
+[lib]
+crate-type = ["cdylib"]
+name = "node_subtensor_runtime"
+
+[package]
+edition = "2021"
+name = "node-subtensor-runtime-blob"
+version = "1.0.0"
+
+[profile.dev]
+panic = "abort"
+
+[profile.production]
+codegen-units = 1
+inherits = "release"
+lto = "fat"
+
+[profile.release]
+lto = "thin"
+panic = "abort"
+
+[workspace]

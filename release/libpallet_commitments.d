@@ -1,0 +1,1 @@
+/root/subtensor/target/release/libpallet_commitments.rlib: /root/subtensor/pallets/commitments/src/benchmarking.rs /root/subtensor/pallets/commitments/src/lib.rs /root/subtensor/pallets/commitments/src/types.rs /root/subtensor/pallets/commitments/src/weights.rs /root/subtensor/support/macros/src/lib.rs /root/subtensor/support/macros/src/visitor.rs
